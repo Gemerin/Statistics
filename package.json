@@ -1,7 +1,7 @@
 {
-  "name": "assignment-a2-descriptive-statistics",
+  "name": "descriptive-statistics",
   "version": "2.0.0",
-  "description": "1DV025 - Assignment A2 - Descriptive Statistics",
+  "description": "Descriptive Statistics",
   "type": "module",
   "main": "src/app.js",
   "scripts": {
@@ -12,9 +12,6 @@
     "test:only": "npx --node-options=--experimental-vm-modules jest -t"
   },
   "contributors": [
-    "Johan Leitet <johan.leitet@lnu.se>",
-    "Mats Loock <mats.loock@lnu.se>",
-    "// TODO: YOUR NAME <YOUR EMAIL>"
   ],
   "license": "MIT",
   "private": true,
