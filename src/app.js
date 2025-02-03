@@ -3,6 +3,7 @@
  * @module src/app.js
  * @author Johan Leitet <johan.leitet@lnu.se>
  * @author Mats Loock <mats.loock@lnu.se>
+ * @author Eva Heinemann
  * @version 2.0.0
  */
 
